@@ -1,1 +1,6 @@
-# EURO2020_assignment
+# EURO2020 - Sports Analytics Assignment
+
+This repository includes:
+* scraped data from UEFA.com (https://www.uefa.com/uefaeuro-2020/statistics/qualifying/players/)
+* Jupyter Notebook files to create a player scoring model and run an integer optimization to select the best players for the EURO 2020 Fantasy Football game on UEFA.com
+
